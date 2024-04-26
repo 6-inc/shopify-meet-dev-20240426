@@ -43,5 +43,12 @@ canvasを生成した初回のみ生成される。
 #### 使える関数はこちらに
 [p5.js リファレンス](https://p5js.org/reference/)
 
-### 発表をしましょう
+### Node.jsが動かない方
+[オンラインエディター](https://editor.p5js.org/)を活用してください。
+
+### Open Processingもおすすめ
+Open Processing[https://openprocessing.org/](https://openprocessing.org/)  
+作例：[https://openprocessing.org/discover/#/trending](https://openprocessing.org/discover/#/trending)
+
+### playgroudフォルダに自分で書いて発表をしましょう
 希望者のみ発表してもらいます。
